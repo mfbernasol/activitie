@@ -267,3 +267,6 @@
 /Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/MediatR.dll
+/Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/michaelbernasol/Dev/activitie/API/bin/Debug/net9.0/AutoMapper.dll
